@@ -19,3 +19,4 @@
 1. other repo
 
    - https://github.com/Alice52/graduation-design
+   - nice
